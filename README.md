@@ -36,13 +36,13 @@ Hoje meu trabalho passa por **desenvolvimento web, aplicações mobile, automaç
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=matheusmongarde&show_icons=true&hide_border=true&theme=github_dark&locale=pt-br"
+  src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=matheusmongarde&show_icons=true&theme=github_dark"
   alt="Estatísticas do GitHub"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmongarde&layout=compact&hide_border=true&theme=github_dark&locale=pt-br"
+  src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=matheusmongarde&layout=compact&theme=github_dark"
   alt="Linguagens mais utilizadas"
 />
 
